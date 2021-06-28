@@ -9,7 +9,7 @@ I'm Brazilian :D
 - [![Discord Badge](https://img.shields.io/badge/-%7C%20Deltha%20Ad-7289da?style=flat&logo=discord&logoColor=white&link=https://discord.gg/CD2afYzwc8)](https://discord.gg/CD2afYzwc8)
 
 ##### My Programming Languages:
-- ![JavaScript Badge](https://img.shields.io/badge/-%7C%20JavaScript-yellow?style=flat&logo=javascript&logoColor=white&link)
+- [![JavaScript Badge](https://img.shields.io/badge/-%7C%20JavaScript-yellow?style=flat&logo=javascript&logoColor=white&link)](https://github.com/XNexusPrimeX/XNexusPrimeX/blob/main/javascript.md)
 - ![Python Badge](https://img.shields.io/badge/-%7C%20Python-blue?style=flat&logo=python&logoColor=white&link)
 - ![Lua Badge](https://img.shields.io/badge/-%7C%20Lua-07006e?style=flat&logo=lua&logoColor=white&link)
 
