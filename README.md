@@ -4,6 +4,8 @@ A Discord Dev, i also make websites, automations, others bots and Roblox Game.
 My age is 16, Programming is my fun.
 I'm Brazilian :D
 
+##### Acting area: *FullStack*
+
 ##### My best Projects:
 - [![Discord Badge](https://img.shields.io/badge/-%7C%20Deltha%20Ad-7289da?style=flat&logo=discord&logoColor=white&link=https://discord.gg/CD2afYzwc8)](https://discord.gg/CD2afYzwc8)
 - [![Discord Badge](https://img.shields.io/badge/-%7C%20Servidor%20da%20Fhany-7289da?style=flat&logo=discord&logoColor=white&link=https://discord.gg/mCY9TZbP6S)](https://discord.gg/mCY9TZbP6S)
