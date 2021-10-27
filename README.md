@@ -4,7 +4,7 @@ A Discord Dev, i also make websites, automations, others bots and Roblox Game.
 My age is 16, Programming is my fun.
 I'm Brazilian :D
 
-##### Acting area: *FullStack*
+##### Acting area: *Backend* and *Frontend*
 
 ##### My Programming Languages:
 - [![JavaScript Badge](https://img.shields.io/badge/-%7C%20JavaScript-yellow?style=flat&logo=javascript&logoColor=white&link)](https://github.com/XNexusPrimeX/XNexusPrimeX/blob/main/javascript.md)
