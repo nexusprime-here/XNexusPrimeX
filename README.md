@@ -1,7 +1,7 @@
 ## Sup, my name is Nexus Prime
 
 A Discord Dev, i also make websites, automations, others bots and Roblox Game.
-My age is 16, Programming is my fun.
+My age is 17, Programming is my fun.
 I'm Brazilian :D
 
 ##### Acting area: *Backend* and *Frontend*
