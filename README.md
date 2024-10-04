@@ -3,7 +3,7 @@
 A creative programmer who loves to follow their wild ideas and create inventions never before imagined. My goal is to be an entrepreneur as a programmer, creating something useful and revolutionizing the market. My greatest strength is my creativity, because even though I don’t put all my ideas into practice as I've learned to manage resources, I always have hundreds of projects in mind that I want to develop.
 
 ### Team
-I have great team organization skills and am excellent at socializing. I’m enthusiastic about psychology, so I often see much more than what is said to me. But to be served, a humble man must serve: I have no problem following orders and being led.
+I have great team organization skills and am excellent at socializing. I’m enthusiastic about psychology and I'm studying Administration, so I often see much more than what is said to me. But to be served, a humble man must serve: I have no problem following orders and being led. 
 
 ### Past
 I have worked with Shopify on two e-commerce sites, worked as a game developer on an SCPF game on Roblox for a few months, and I currently work at a Brazilian crepe buffet company [Chateau d France](https://chateaudfrance.com.br).
